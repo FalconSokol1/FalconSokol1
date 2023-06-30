@@ -1,4 +1,14 @@
-Привет ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Меня зовут Руслан ================================================================================================================================== ИТ-аналитик, веб-разработчик ---------------------------- Здравствуйте. Мой путь в сфере ИТ начался в 2020 году. На данный момент я обладаю навыками ИТ-аналитика, веб-разработчика и разработчика Android. * 🌍 Я базируюсь в R * ✉️ Вы можете связаться со мной по [falcondesign.official@gmail.com](mailto:falcondesign.official@gmail.com) * 🤝 Я открыт для сотрудничества по W
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruslan
+==============================================================================================================================
+
+IT Analyst, Web developer
+-------------------------
+
+Hello. My IT journey started in 2020. At the moment I have the skills of an IT analyst, web developer and android developer.
+
+* 🌍 I'm based in Russia
+* ✉️ You can contact me at [falcondesign.official@gmail.com](mailto:falcondesign.official@gmail.com)
+* 🤝 I'm open to collaborating on Web-Projects
 
 ### Skills
 
