@@ -18,11 +18,6 @@ Hello. My IT journey started in 2020. At the moment I have the skills of an IT a
 ### Badges
 
 <b>My GitHub Stats</b>
-
-
-
-
-
 <table>
 <tr>
 <th> Using Languages </th>
