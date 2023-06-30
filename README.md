@@ -4,10 +4,10 @@ Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 I have skills: IT Analyst, Web developer, Android-developer
 -------------------------
 
+<p align="center" width="100%">
+    <img align="Center"  src="https://github.com/FalconSokol1/FalconSokol1/blob/main/gosling.gif" width="250" height="250"/>
+</p>
 
-
-
-<img align="Center"  src="https://github.com/FalconSokol1/FalconSokol1/blob/main/gosling.gif" width="250" height="250"/>
 <p align="Center"> Hello. My IT journey started in 2020. At the moment I have the skills of an IT analyst, web developer and android developer. </p>
 
 
