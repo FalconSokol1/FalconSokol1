@@ -6,13 +6,13 @@ I have skills: IT Analyst, Web developer, Android-developer
 
 
 
-<div>
-<img src="https://github.com/FalconSokol1/FalconSokol1/blob/main/gosling.gif" width="250" height="250"/>
-</div>
 
-<div>
+<img align="right"  src="https://github.com/FalconSokol1/FalconSokol1/blob/main/gosling.gif" width="250" height="250"/>
+
+
+
 Hello. My IT journey started in 2020. At the moment I have the skills of an IT analyst, web developer and android developer.
-</div>
+
 
 
 
