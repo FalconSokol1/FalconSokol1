@@ -21,10 +21,10 @@ I have skills: IT Analyst, Web developer, Android-developer
 <BR>
 <BR>
 
-  * 🌍 I'm based in Russia
-  * ✉️ You can contact me at [falcondesign.official@gmail.com](mailto:falcondesign.official@gmail.com)
-  * VK: Also you can contact me at https://vk.com/russkiy.ruslan
-  * 🤝 I'm open to collaborating on Web-Projects</p>
++ 🌍 I'm based in Russia
++ ✉️ You can contact me at [falcondesign.official@gmail.com](mailto:falcondesign.official@gmail.com)
++ VK: Also you can contact me at https://vk.com/russkiy.ruslan
++ 🤝 I'm open to collaborating on Web-Projects</p>
 
 
 
