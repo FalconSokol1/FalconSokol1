@@ -28,7 +28,7 @@ I have skills: IT Analyst, Web developer, Android-developer
 
 
 
-<b>My GitHub Stats</b>
+<p align="center"><b>My GitHub Stats</b>
 <table>
 <tr>
 <th> Using Languages </th>
@@ -47,6 +47,7 @@ I have skills: IT Analyst, Web developer, Android-developer
 </td>
 </tr>
 </table>
+</p>
 
 <p align="center" width="100%">
     <img align="Center"  src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"/>
