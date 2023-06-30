@@ -26,6 +26,10 @@ I have skills: IT Analyst, Web developer, Android-developer
 ### Socials
 <p align="left"> <a href="https://discord.com/users/_falconrus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/FalconSokol1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
+<p align="center" width="100%">
+    <img align="Center"  src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="450" height="350"/>
+</p>
+
 <b>My GitHub Stats</b>
 <table>
 <tr>
