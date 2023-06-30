@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruslan
+Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ruslan
 ==============================================================================================================================
 
 I have skills: IT Analyst, Web developer, Android-developer
@@ -13,7 +13,7 @@ I have skills: IT Analyst, Web developer, Android-developer
 
 Hello. My IT journey started in 2020. At the moment I have the skills of an IT analyst, web developer and android developer.
 
-
+<p align="left">
 
 
 * 🌍 I'm based in Russia
