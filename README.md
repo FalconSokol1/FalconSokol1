@@ -40,4 +40,4 @@ Hello. My IT journey started in 2020. At the moment I have the skills of an IT a
 </tr>
 </table>
 
-![alt text](https://tenor.com/bMuPS.gif)
+![alt text](https://github.com/FalconSokol1/FalconSokol1/blob/main/gosling.gif)
