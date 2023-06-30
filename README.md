@@ -10,7 +10,7 @@ I have skills: IT Analyst, Web developer, Android-developer
 
 <p align="Center"> Hello. My IT journey started in 2020. At the moment I have the skills of an IT analyst, web developer and android developer. </p>
 
-
+==============================================================================================================================
 
 + 🌍 I'm based in Russia
 + ✉️ You can contact me at [falcondesign.official@gmail.com](mailto:falcondesign.official@gmail.com)
