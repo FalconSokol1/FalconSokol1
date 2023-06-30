@@ -49,7 +49,7 @@ I have skills: IT Analyst, Web developer, Android-developer
 </table>
 
 <p align="center" width="100%">
-    <img align="Center"  src="https://github.com/FalconSokol1/FalconSokol1/blob/main/1-OF0xEMkWBv-69zvmNs6RDQ.gif"/>
+    <img align="Center"  src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"/>
 </p>
 
 
