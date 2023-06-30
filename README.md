@@ -50,7 +50,7 @@ I have skills: IT Analyst, Web developer, Android-developer
 </p>
 
 <p align="center" width="100%">
-    <img align="Center"  src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp"/>
+    <img align="Center"  src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif"/>
 </p>
 
 
