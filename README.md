@@ -13,7 +13,7 @@ I have skills: IT Analyst, Web developer, Android-developer
 
 Hello. My IT journey started in 2020. At the moment I have the skills of an IT analyst, web developer and android developer.
 
-<p align="left">
+<p align="Right">
 
 
 * 🌍 I'm based in Russia
