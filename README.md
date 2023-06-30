@@ -19,6 +19,6 @@ Hello. My IT journey started in 2020. At the moment I have the skills of an IT a
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/FalconSokol1"><img src="https://github-readme-stats.vercel.app/api?username=FalconSokol1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=312e81&hide_border=true&show_icons=true" alt="FalconSokol1's GitHub stats" /></a>
+<a href="http://www.github.com/FalconSokol1"><img src="https://github-readme-stats.vercel.app/api?username=FalconSokol1&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="FalconSokol1's GitHub stats" /></a>
 
-<a href="https://github.com/FalconSokol1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalconSokol1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=14b8a6&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/FalconSokol1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalconSokol1&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
