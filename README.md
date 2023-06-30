@@ -39,3 +39,5 @@ Hello. My IT journey started in 2020. At the moment I have the skills of an IT a
 </td>
 </tr>
 </table>
+
+![alt text]((https://tenor.com/bMuPS.gif)https://tenor.com/bMuPS.gif)
