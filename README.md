@@ -7,7 +7,7 @@ I have skills: IT Analyst, Web developer, Android-developer
 
 
 
-<img align="right"  src="https://github.com/FalconSokol1/FalconSokol1/blob/main/gosling.gif" width="250" height="250"/>
+<img align="left"  src="https://github.com/FalconSokol1/FalconSokol1/blob/main/gosling.gif" width="250" height="250"/>
 
 
 
