@@ -8,7 +8,7 @@ I have skills: IT Analyst, Web developer, Android-developer
     <img align="Center"  src="https://github.com/FalconSokol1/FalconSokol1/blob/main/ryan-gosling-blade-runner.gif" width="450" height="350"/>
 </p>
 
-<p align="Center"> Hello. My IT journey started in 2020. At the moment I have the skills of an IT analyst, web developer and android developer. </p>
+<p align="Center"> My IT journey started in 2020. At the moment I have the skills of an IT analyst, web developer and android developer. </p>
 
 -------------------------
 
