@@ -28,8 +28,8 @@ I have skills: IT Analyst, Web developer, Android-developer
 
 
 
-<p align="center"><b>My GitHub Stats</b>
-<table>
+
+<table align="center">
 <tr>
 <th> Using Languages </th>
 <th> Stats </th>
