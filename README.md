@@ -4,9 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I have skills: IT Analyst, Web developer, Android-developer
 -------------------------
 
-<img src="https://github.com/FalconSokol1/FalconSokol1/blob/main/gosling.gif" width="250" height="250"/>
 
+
+<div>
+<img src="https://github.com/FalconSokol1/FalconSokol1/blob/main/gosling.gif" width="250" height="250"/>
+</div>
+
+<div>
 Hello. My IT journey started in 2020. At the moment I have the skills of an IT analyst, web developer and android developer.
+</div>
+
+
 
 * 🌍 I'm based in Russia
 * ✉️ You can contact me at [falcondesign.official@gmail.com](mailto:falcondesign.official@gmail.com)
